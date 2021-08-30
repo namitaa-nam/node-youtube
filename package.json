@@ -1,0 +1,19 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "Sample project for youtube search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalrishav/miniproject.git"
+  },
+  "author": "LAL RISHAV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalrishav/miniproject/issues"
+  },
+  "homepage": "https://github.com/lalrishav/miniproject#readme"
+}
